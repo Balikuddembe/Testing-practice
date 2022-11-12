@@ -24,5 +24,6 @@ describe('Test for arithmetic operators on two numbers',()=>{
         const multiply = new calculator(num1, num2);
         expect(multiply.multiply()).toBe(5)
     });
+
 }) 
 
